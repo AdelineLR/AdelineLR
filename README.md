@@ -1,7 +1,6 @@
-## Hi there 👋
+## 👋 Hi there, I'm Adeline! I successfully transitioned from a healthcare and Life Sciences background into Data Science, bringing a unique perspective to complex challenges. My journey has equipped me with a strong analytical mindset and the ability to bridge the gap between business needs and technical solutions.<br>
 
-## About Me:
-💊 French Data Scientist & Process Engineer working on AI projects in the pharmaceutical and Life sciences industries<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelineleray/) <br>
 
 ## Main projects
 <table style="width: 100%; table-layout: fixed;">
@@ -40,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="https://github.com/AdelineLR/OC_DS_P5_Segmentation_clients_site_e-commerce">Custumer segmentation </a></td>
+    <td style="word-wrap: break-word;"><a href="https://github.com/AdelineLR/OC_DS_P5_Segmentation_clients_site_e-commerce">Customer segmentation </a></td>
     <td style="word-wrap: break-word;">Customer segmentation using RFM and unsupervised clustering.</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
