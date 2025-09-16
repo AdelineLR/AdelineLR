@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Adeline! I successfully transitioned from a healthcare and Life Sciences background into Data Science, bringing a unique perspective to complex challenges. My journey has equipped me with a strong analytical mindset and the ability to bridge the gap between business needs and technical solutions.<br>
+## 👋 Hi there, I'm Adeline! I transitioned into Data Science from a healthcare and Life Sciences background.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelineleray/) <br>
 
