@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelineleray/) <br>
 
+This portfolio showcases my most significant projects, demonstrating my technical skills and my ability to deliver end-to-end solutions.
+
 ## Main projects
 <table style="width: 100%; table-layout: fixed;">
   <tr>
