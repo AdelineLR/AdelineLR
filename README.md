@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Adeline ! I transitioned into Data Science from a Healthcare and Life Sciences background.
+## 👋 Hi there, I'm Adeline ! I transitioned into Data Analysis and Data Science from a Healthcare and Life Sciences background.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelineleray/) <br>
 
 This portfolio showcases my most significant projects, demonstrating my technical skills and my ability to deliver end-to-end solutions.
