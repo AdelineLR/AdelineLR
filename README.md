@@ -14,8 +14,8 @@ This portfolio showcases my most significant projects, demonstrating my technica
     <th style="width: 25%;">Tech Stack</th>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="https://github.com/AdelineLR/OC_DS_P7_Implementez_un_modele_de_scoring">Credit Scoring </a></td>
-    <td style="word-wrap: break-word;">End-to-end credit scoring system deployed on the cloud, enabling client advisors to explain decisions clearly during meetings.</td>
+    <td style="word-wrap: break-word;"><a href="https://github.com/AdelineLR/OC_DS_P7_Implementez_un_modele_de_scoring">Decision-Oriented Credit Scoring System </a></td>
+    <td style="word-wrap: break-word;">End-to-end analytical framework designed to support loan approval decisions, with a strong focus on interpretability and advisor usability.</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
       <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="Fastapi">
@@ -40,8 +40,8 @@ This portfolio showcases my most significant projects, demonstrating my technica
     </td>
   </tr>
   <tr>
-    <td style="word-wrap: break-word;"><a href="https://github.com/AdelineLR/OC_DS_P5_Segmentation_clients_site_e-commerce">Customer segmentation </a></td>
-    <td style="word-wrap: break-word;">Customer segmentation using RFM and unsupervised clustering.</td>
+    <td style="word-wrap: break-word;"><a href="https://github.com/AdelineLR/OC_DS_P5_Segmentation_clients_site_e-commerce">Customer Segmentation for Targeted Business Strategy</a></td>
+    <td style="word-wrap: break-word;">Unsupervised segmentation based on RFM analysis to support marketing and customer retention strategies.</td>
     <td style="word-wrap: break-word;">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
       <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
